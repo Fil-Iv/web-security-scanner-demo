@@ -10,4 +10,4 @@ python scanner_demo.py https://example.com
 
 ## Full version
 Get the full scanner here:
-https://YOUR-GUMROAD-LINK
+https://xylofi0.gumroad.com/l/python-web-security-scanner
