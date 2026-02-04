@@ -1,1 +1,9 @@
 requests
+beautifulsoup4
+PyYAML
+
+# Runtime & browser-based validation
+playwright
+
+# CLI / output helpers
+rich
